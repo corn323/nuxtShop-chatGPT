@@ -1,0 +1,1 @@
+# nuxtShop-chatGPT
